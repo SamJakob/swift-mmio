@@ -37,7 +37,7 @@ let package = Package(
     //#if attributes with AttributeRemover" which missed the 6.1 release.
     .package(
       url: "https://github.com/swiftlang/swift-syntax.git",
-      from: "603.0.0"),
+      from: "603.0.1"),
   ],
   targets: [
     // MMIO
